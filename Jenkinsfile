@@ -9,6 +9,8 @@ pipeline {
     CI = 'true'
     HOME = '.'
     npm_config_cache = 'npm-cache'
+    echo $WORKSPACE
+    echo $PWD
   }
   stages {
     stage('Install Packages') {
