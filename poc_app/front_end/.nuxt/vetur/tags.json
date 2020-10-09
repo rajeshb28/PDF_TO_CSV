@@ -1,0 +1,38 @@
+{
+  "AlertMessage": {
+    "description": "Auto imported from components/AlertMessage.vue"
+  },
+  "LazyAlertMessage": {
+    "description": "Auto imported from components/AlertMessage.vue"
+  },
+  "Draggable": {
+    "description": "Auto imported from components/Draggable.vue"
+  },
+  "LazyDraggable": {
+    "description": "Auto imported from components/Draggable.vue"
+  },
+  "Header": {
+    "description": "Auto imported from components/Header.vue"
+  },
+  "LazyHeader": {
+    "description": "Auto imported from components/Header.vue"
+  },
+  "MainPage": {
+    "description": "Auto imported from components/MainPage.vue"
+  },
+  "LazyMainPage": {
+    "description": "Auto imported from components/MainPage.vue"
+  },
+  "Modal": {
+    "description": "Auto imported from components/Modal.vue"
+  },
+  "LazyModal": {
+    "description": "Auto imported from components/Modal.vue"
+  },
+  "SideMenu": {
+    "description": "Auto imported from components/SideMenu.vue"
+  },
+  "LazySideMenu": {
+    "description": "Auto imported from components/SideMenu.vue"
+  }
+}

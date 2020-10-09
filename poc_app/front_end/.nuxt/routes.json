@@ -1,0 +1,32 @@
+[
+  {
+    "name": "NewWorkspace",
+    "path": "/NewWorkspace",
+    "component": "C:\\\\Users\\\\CSC\\\\Downloads\\\\poc_app\\\\front_end\\\\pages\\\\NewWorkspace.vue",
+    "chunkName": "pages/NewWorkspace"
+  },
+  {
+    "name": "SavedWorkspace",
+    "path": "/SavedWorkspace",
+    "component": "C:\\\\Users\\\\CSC\\\\Downloads\\\\poc_app\\\\front_end\\\\pages\\\\SavedWorkspace\\\\index.vue",
+    "chunkName": "pages/SavedWorkspace/index"
+  },
+  {
+    "name": "workspace",
+    "path": "/workspace",
+    "component": "C:\\\\Users\\\\CSC\\\\Downloads\\\\poc_app\\\\front_end\\\\pages\\\\workspace\\\\index.vue",
+    "chunkName": "pages/workspace/index"
+  },
+  {
+    "name": "SavedWorkspace-id",
+    "path": "/SavedWorkspace/:id",
+    "component": "C:\\\\Users\\\\CSC\\\\Downloads\\\\poc_app\\\\front_end\\\\pages\\\\SavedWorkspace\\\\_id.vue",
+    "chunkName": "pages/SavedWorkspace/_id"
+  },
+  {
+    "name": "index",
+    "path": "/",
+    "component": "C:\\\\Users\\\\CSC\\\\Downloads\\\\poc_app\\\\front_end\\\\pages\\\\index.vue",
+    "chunkName": "pages/index"
+  }
+]
