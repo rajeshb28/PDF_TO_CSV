@@ -3,13 +3,13 @@ version: 0.2
 phases:
   install:
     commands:
-      - npm i npm@latest -g
+      - cd poc_app/front_end && npm i npm@latest -g
       - pip install --upgrade pip
       - pip install --upgrade awscli
   pre_build:
     commands:
       - echo PRE_BUILD Phase
-      - cd poc_app/front_end && npm install
+      - npm install
   build:
     commands:
       - echo BUILD Phase
