@@ -13,6 +13,15 @@ pipeline {
     DIRECTORY = $PWD
   }
   stages {
+    
+    stages {
+        stage("Env Variables") {
+            steps {
+                sh "printenv"
+            }
+        }
+    }
+    
     stage('Install Packages') {
       steps {
         sh 'npm install'
