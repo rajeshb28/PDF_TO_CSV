@@ -6,7 +6,7 @@ pipeline {
     }
   }
   environment {
-    CI = 'true'
+   // CI = 'true'
     HOME = '.'
     npm_config_cache = 'npm-cache'
     WORKSPACE = $WORKSPACE
