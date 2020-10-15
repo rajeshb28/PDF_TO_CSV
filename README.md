@@ -17,6 +17,5 @@
 2.Goto front_end folder double click on **npm_run_devserver.bat** (it will run the poc  application, don,t close the command prompt) <br>
 #
 ###########################################
-+++++++++++++++++++++++++++++++++++++++++++
 
 
